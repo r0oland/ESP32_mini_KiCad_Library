@@ -9,6 +9,8 @@ It seems people can't really agree on what this board is called, here are some c
    - [Amazon](https://www.amazon.com/s?k=MH-ET+LIVE+D1+Mini+ESP32+ESP-32+WiFi&ref=nb_sb_noss)
    - [AliExpress](https://www.aliexpress.com/item/32815530502.html)
 
+I am programming them using Platformio, where they call them [WeMos D1 MINI ESP32](  https://docs.platformio.org/en/latest/boards/espressif32/wemos_d1_mini32.html)
+
 This what mine looks like:
 ![image](https://user-images.githubusercontent.com/558053/92308608-2eaab780-ef9f-11ea-97a7-bbd80803f333.png)
 
