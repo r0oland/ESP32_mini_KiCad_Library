@@ -14,5 +14,9 @@ I am programming them using Platformio, where they call them [WeMos D1 MINI ESP3
 This what mine looks like:
 ![image](https://user-images.githubusercontent.com/558053/92308608-2eaab780-ef9f-11ea-97a7-bbd80803f333.png)
 
+I made a sligthly simplified PIN out, which helps me breadboarding and programming, as it focuses on IO pins and their location:
+![ESP32_mini_pins](https://user-images.githubusercontent.com/558053/93228315-a209b180-f775-11ea-95f7-2d7999092368.jpg)
+[A PDF version can be found here.](https://github.com/r0oland/ESP32_mini_KiCad_Library/files/5225892/ESP32_mini_pins.pdf)
+
 Pinout ([taken from www.esp32learning.com](https://i1.wp.com/www.esp32learning.com/wp-content/uploads/2018/12/MH-ET_LIVE_D1_mini_ESP32_pinout.png?resize=696%2C479))
 ![image](https://user-images.githubusercontent.com/558053/92308628-57cb4800-ef9f-11ea-81fa-64d722c4df24.png)
