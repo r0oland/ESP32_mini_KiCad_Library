@@ -6,9 +6,10 @@ It seems people can't really agree on what this board is called, here are some c
 - D1 mini ESP32 ESP-32 
    - I am using these ones [AliExpress](https://www.aliexpress.com/item/32819907815.html?spm=a2g0o.placeorder.0.0.6362321eORA9U3&mp=1)
 - MH-ET LIVE D1 Mini ESP32 ESP-32 WiFi 
-   - [KeeYeesESP32 Mini @ Amazon](https://amzn.to/3bANxOz)
-   - [ALMOCN ESP32 ESP-WROOM-32 @ Amazon](https://amzn.to/3w8c9aW)
-   - [XTVTX Node-MCU ESP32 @ Amazon](https://amzn.to/3bBWK9q)
+   - [KeeYeesESP32 Mini @ Amazon](https://amzn.to/3bANxOz)*
+   - [ALMOCN ESP32 ESP-WROOM-32 @ Amazon](https://amzn.to/3w8c9aW)*
+   - [XTVTX Node-MCU ESP32 @ Amazon](https://amzn.to/3bBWK9q)*
+(* affiliate links)
 
 I am programming them using Platformio, where they call them [WeMos D1 MINI ESP32](  https://docs.platformio.org/en/latest/boards/espressif32/wemos_d1_mini32.html)
 
